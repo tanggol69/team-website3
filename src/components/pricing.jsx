@@ -27,7 +27,7 @@ const Pricing = (props) => {
      
         
             </ul>
-            <a className="btn-plan" href="">Select Plan</a>
+            <a className="btn-plan" href="#contact">Select Plan</a>
           </div>
 
           {/* "Premium" Plan */}
@@ -48,7 +48,7 @@ const Pricing = (props) => {
               <li>Resource Library</li>
               <li>Dedicated Support</li>
             </ul>
-            <a className="btn-plan cta" href="">Select Plan</a>
+            <a className="btn-plan cta" href="#contact">Select Plan</a>
           </div>
 
         </div>
