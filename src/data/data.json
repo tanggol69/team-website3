@@ -1,0 +1,176 @@
+{
+  "Header": {
+    "title": "Transform your digital dreams into reality.",
+    "paragraph": "Whether you're embarking on a new project or need to enhance an existing one, GO::BCD is here to help. We're passionate about coding, and we're dedicated to helping you succeed in the digital world."
+  },
+  "About": {
+    "paragraph": "At go::bcd, we are passionate about helping you succeed in the digital world. With a focus on providing exceptional web solutions, we specialize in creating both basic and engaging websites tailored to meet your unique needs.",
+    "Why": [
+      "Premium Quality",
+      "User-friendly",
+      "Affordable"
+    ],
+    "Why2": [
+      "Tailored solutions",
+      "Guaranteed Satisfaction",
+      "Innovative and Future-Ready designs"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/03-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/04-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/05-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "smallImage": "img/portfolio/06-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/07-large.jpg",
+      "smallImage": "img/portfolio/07-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/08-large.jpg",
+      "smallImage": "img/portfolio/08-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/09-small.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "name": "Premium Quality",
+      "text": "Our commitment to premium quality means that every aspect of our service is crafted with precision and attention to detail. From the sleek and elegant designs to the robust functionality, we spare no effort in delivering excellence."
+    },
+    {
+      "name": "User friendly",
+      "text": "We believe that technology should be accessible to all. Our user-friendly solutions are designed with your ease in mind, making it a breeze to navigate and interact with our services."
+    },
+    {
+      "name": "Affordable",
+      "text": "We understand the importance of cost-effectiveness in today's competitive landscape. That's why we offer our top-tier services at a price that's friendly to your budget. Experience quality without compromise."
+    },
+    {
+      "name": "Tailored Solutions",
+      "text": "Your business is unique, and so are your needs. Our tailored solutions are all about providing you with a customized experience. We work closely with you to understand your objectives and deliver a solution that fits you perfectly."
+    },
+    {
+      "name": "Guaranteed Satisfaction",
+      "text": "Your satisfaction is our top priority. We back our services with a satisfaction guarantee, giving you peace of mind that we are committed to exceeding your expectations."
+    },
+    {
+      "name": "Innovative and Future-Ready Designs",
+      "text": "Our designs aren't just stylish; they are future-ready. We incorporate innovative elements to keep your online presence ahead of the curve. Count on us to provide cutting-edge solutions that stand the test of time."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "Rex Posadas",
+      "job": "CEO"
+    },
+    {
+      "img": "img/team/01.jpg",
+      "name": "Lanz Montelibano",
+      "job": "Developer"
+    },
+    {
+      "img": "img/team/01.jpg",
+      "name": "Ziegfred Carmona",
+      "job": "Developer"
+    },
+    {
+      "img": "img/team/01.jpg",
+      "name": "Azaleah Caram",
+      "job": "Project Manager"
+    }
+  ],
+  "Contact": {
+    "address": "Bacolod City, Negros Occidental PH 6100",
+    "phone": "+1 123 456 1234",
+    "email": "info@company.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    }
+  ]
+}
